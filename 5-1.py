@@ -3,7 +3,7 @@ import re
 
 trash = { '<.*?>' : '', '\s+': ' ' }
 translation = {
-    'name' : 'Название',
+    'name' : 'Имя',
     'description' : 'Описание',
     'key_skills' : 'Навыки',
     'experience_id' : 'Опыт работы',
